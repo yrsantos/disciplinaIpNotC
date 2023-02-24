@@ -5,7 +5,7 @@
 <!-- [Aulas MS-Teams]: <https://teams.microsoft.com/l/team/19%3adYkgyhUyhdggDfLyrqaXl8XhqH1Cxxjg6xafT5UYrSo1%40thread.tacv2/conversations?groupId=834a0c35-9086-4dc6-9f1b-edfa59972a3d&tenantId=0c2d222a-ecda-4b70-960a-acef6ced3052> "Aulas MS-Teams" -->  
 <!-- [Gravações das aulas]: <https://furb.sharepoint.com/:f:/t/CMP0166000220221/EryHg9vME5hDmjeRKi_LWrEBQytSxR7iESE2Mm2CgyqEiQ?e=Jk4Vfl> "Gravações das aulas" -->
 
-# Disciplina de Introdução à Programação
+# Disciplina de Introdução à Programação - SUP-CMP.166.0.4-2023/1
 
 Olá, seja bem vindo .. 😁  
 
