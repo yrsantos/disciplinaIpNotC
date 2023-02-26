@@ -2,8 +2,6 @@
 
 FIXME: Atualizar
 
-## Atualizando
-
 
 ## Julio Vicente Brych
 
