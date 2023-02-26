@@ -1,32 +1,32 @@
 <!-- [@]TODO:INICIO atualizar -->
-[Unidade1_Questionário]: < > "Unidade1_Questionário"
+[Unidade1_Questionário]: <https://ava3.furb.br/mod/quiz/view.php?id=742815> "Unidade1_Questionário"
 
-[Unidade2_Questionário]: < > "Unidade2_Questionário"
+[Unidade2_Questionário]: <https://ava3.furb.br/mod/quiz/view.php?id=742813> "Unidade2_Questionário"
 
-[Unidade3_Questionário]: < > "Unidade3_Questionário"
+[Unidade3_Questionário]: <https://ava3.furb.br/mod/quiz/view.php?id=742809> "Unidade3_Questionário"
 [Unidade3_RespostasAtividadeAula]: < > "Unidade3_RespostasAtividadeAula"
 [Unidade3_RespostasAtividadeURI]: < > "Unidade3_RespostasAtividadeURI"
 
 [Unidade4_Questionário]: <> "Unidade4_Questionário"
-[Unidade4_RespostasAtividadeAula]: < > "Unidade4_RespostasAtividadeAula"
+[Unidade4_RespostasAtividadeAula]: <https://ava3.furb.br/mod/assign/view.php?id=742807> "Unidade4_RespostasAtividadeAula"
 [Unidade4_RespostasAtividadeURI]: <> "Unidade4_RespostasAtividadeURI"
 
-[Prova1_Respostas_parteA]: < > "Prova1_Respostas_parteA"
+[Prova1_Respostas_parteA]: <https://ava3.furb.br/mod/assign/view.php?id=742805> "Prova1_Respostas_parteA"
 
-[Unidade5_Questionário]: < > "Unidade5_Questionário"
-[Unidade5_RespostasAtividadeAula]: < > "Unidade5_RespostasAtividadeAula"
+[Unidade5_Questionário]: <https://ava3.furb.br/mod/quiz/view.php?id=742802> "Unidade5_Questionário"
+[Unidade5_RespostasAtividadeAula]: <https://ava3.furb.br/mod/assign/view.php?id=742803> "Unidade5_RespostasAtividadeAula"
 [Unidade5_RespostasAtividadeURI]: <> "Unidade5_RespostasAtividadeURI"
 
-[Unidade6_Questionário]: < > "Unidade6_Questionário"
-[Unidade6_RespostasAtividadeAula]: < > "Unidade6_RespostasAtividadeAula"
+[Unidade6_Questionário]: <https://ava3.furb.br/mod/quiz/view.php?id=742799> "Unidade6_Questionário"
+[Unidade6_RespostasAtividadeAula]: <https://ava3.furb.br/mod/assign/view.php?id=742800> "Unidade6_RespostasAtividadeAula"
 [Unidade6_RespostasAtividadeURI]: <> "Unidade6_RespostasAtividadeURI"
 
-[Prova2_Respostas]: < > "Prova2_Respostas"
+[Prova2_Respostas]: <https://ava3.furb.br/mod/assign/view.php?id=742797> "Prova2_Respostas"
 
 [TrabalhoFinal_DefinirEquipes]: < > "TrabalhoFinal_DefinirEquipes"
 [TrabalhoFinal_entrega]: < > "TrabalhoFinal_entrega"
 
-[PlanoEnsinoAVA]: < > "PlanoEnsinoAVA"  
+[PlanoEnsinoAVA]: <https://ava3.furb.br/course/view.php?id=33519> "PlanoEnsinoAVA"  
 
 <!-- Cronograma da planilha-->
 
