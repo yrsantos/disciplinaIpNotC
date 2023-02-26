@@ -1,5 +1,5 @@
 <!-- [@]TODO:INICIO atualizar -->
-[AVA3]: <https://ava3.furb.br/course/view.php?id=34278> "AVA3"  
+[AVA3]: <https://ava3.furb.br/course/view.php?id=33519> "AVA3"  
 [PlanoEnsinoAVA]: <> "PlanoEnsinoAVA"  
 [Prova de Suficiência (inscrição)]: <https://forms.office.com/r/Ps2fpxXciC> "Prova de Suficiência (inscrição)"
 <!-- [Aulas MS-Teams]: <https://teams.microsoft.com/l/team/19%3adYkgyhUyhdggDfLyrqaXl8XhqH1Cxxjg6xafT5UYrSo1%40thread.tacv2/conversations?groupId=834a0c35-9086-4dc6-9f1b-edfa59972a3d&tenantId=0c2d222a-ecda-4b70-960a-acef6ced3052> "Aulas MS-Teams" -->  
