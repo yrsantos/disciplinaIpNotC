@@ -4,6 +4,22 @@ FIXME: Atualizar
 
 ## Atualizando
 
+
+## Julio Vicente Brych
+
+Teams: jbrych@furb.br  
+
+
+| horário     | segunda     | terça       | quarta      | quinta      | sexta       |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| 18:00-18:30 |             |             |             |             |             |
+| 18:30-19:20 |             |  IP (S-415) |             |             |             |
+| 19:20-20:10 |             |  IP (S-415) |             |             |             |
+| 20:20-21:10 |             |             |             |             |             |
+| 21:10-22:00 |             |             |             |             |             |
+
+
+
 <!--
 | horário     | segunda     | terça       | quarta      | quinta      | sexta       |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
