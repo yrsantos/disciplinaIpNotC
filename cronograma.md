@@ -228,6 +228,13 @@ Fontes: [src](Unidade4/src "src")
   
 - Prova1  
 <!-- - Prova 1 - parta B: [entrega](<@@@@> "entrega") no URI -->  
+
+### [Unidade5-Atividades](Unidade5 "Unidade5-Atividades") Prazo:  24-04-2023 segunda-feira
+  
+- assistir as videoaulas da Unidade5;  
+- responder o [Unidade5_Questionário].  
+<!-- [ ] Aviso: Unidades 5 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-59665031> -->  
+  
   
 ### [Aula_25](Unidade5/aula.md#Aula_25 " 25-04-2023 terça-feira ") 25-04-2023 terça-feira
   
@@ -235,12 +242,7 @@ Fontes: [src](Unidade4/src "src")
 - **liberar material** da próxima unidade (5).  
 <!-- [ ] Aviso: Prova1 correção <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-58035800> -->  
   
-### [Unidade5-Atividades](Unidade5 "Unidade5-Atividades") Prazo:  24-04-2023 segunda-feira
-  
-- assistir as videoaulas da Unidade5;  
-- responder o [Unidade5_Questionário].  
-<!-- [ ] Aviso: Unidades 5 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-59665031> -->  
-  
+
 -----------  
   
 ## [Unidade5](Unidade5 "Unidade5")  
@@ -302,7 +304,7 @@ Fontes: [src](Unidade5/src "src")
   
 ### [Unidade6-Atividades](Unidade6 "Unidade6-Atividades") Prazo:  15-05-2023 segunda-feira
   
-<!-- [FIXME: fazer - [atividadeUri](Unidade5/atividadeUri.md "atividadeUri"); —>.   
+<!-- [FIXME: fazer - [atividadeUri](Unidade5/atividadeUri.md "atividadeUri"); -->.   
 - [atividadeAula](Unidade5/atividadeAula.md "atividadeAula");  
 - assistir as videoaulas da Unidade6;  
 - responder o [Unidade6_Questionário].  
