@@ -26,7 +26,7 @@ Já para desenvolver a parte prática precisaremos de um computador (PC/Mac) com
 [Prova de Suficiência (inscrição)]  
 <!-- [Aulas MS-Teams]  -->
 <!-- [Gravações das aulas]  -->
-[Monitoria](./monitorHorario.md "Monitoria")  
+[Monitoria](https://github.com/dalton-reis/dalton-reis/tree/main/_._/Monitores "Monitoria")  
 
 **Prazos**: geralmente o AVA3 é usado pelos professores para definirem prazos para atividades. Uma vez definido um prazo a atividade não pode ser entregue no AVA3, a não ser que o professor prorrogue o prazo. Não deixem para postar a atividade nos últimos minutos. Se for uma atividade que pode ser postada em partes, postem a medida que forem desenvolvendo. Só observem qual é o limite de enviou que foi definido no post do AVA3 para aquela atividade.
 

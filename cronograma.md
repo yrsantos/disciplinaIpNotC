@@ -48,7 +48,7 @@ Fontes: [src](Unidade1/src "src")
 - créditos em sala (6) x créditos auto-estudo (1);  
 - sala de aula invertida: vídeos aulas, conteúdo e práticas;  
 - conversa individual com os alunos (depois nos exercícios);  
-- horário do monitor.  
+- [horário do monitor](https://github.com/dalton-reis/dalton-reis/tree/main/_._/Monitores).  
 --  
 - **liberar material** das unidades 1 e 2.  
 <!-- [ ] Aviso: Unidades1e2 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55427636> -->  
