@@ -119,7 +119,7 @@ Um motorista acaba de voltar de um feriado prolongado. Antes de sair de viagem e
 
 Um comerciante deseja fazer um levantamento do lucro das 20 mercadorias que comercializa. Para cada mercadoria ele tem o nome, o preço de compra (PC) e o preço de venda (PV). Descreva um algoritmo que:  
 
-- escreva quantas mercadorias proporcionam: (lucro < 10%), (10% <= lucro <= 20%) e (lucro > 20%), onde o percentual de lucro é calculado da seguinte forma: % = (PV - PC) / PC * 100;  
+- escreva quantas mercadorias proporcionam: (lucro < 10%), (10% >= lucro <= 20%) e (lucro > 20%), onde o percentual de lucro é calculado da seguinte forma: % = (PV - PC) / PC * 100;  
 - determine e escreva o valor total de compra e de venda de todas as mercadorias, assim como o lucro total.  
 
 ----------
